@@ -1,6 +1,6 @@
 # ALLIAKSANDR ZUYEUSKI
 
-<img src="\img\user_img.jpg" alt="pic" style="width:150px;"/>
+<img src="img\user_img.jpg" alt="pic" style="width:150px;"/>
 
 ## Doświadczenie zawodowe: 
 #### 02.02.2017 - 18.02.2020 "Kiwa Inspecta Polska Sp. z o.o."  - Operator defektoskopu </br>
