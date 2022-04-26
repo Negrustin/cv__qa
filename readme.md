@@ -24,6 +24,6 @@
 * ISTQB foundation level
 * MYSQL
 * GIT
-* Jawa
+* Java
 * Html
 * CSS
